@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  PlusUno
+
+  Created by Mario Solano on 3/13/18.
+  Copyright © 2018 Mario Solano. All rights reserved.
+*/
+
+/* ONBOARDING INSTRUCTIONS */
+"MAIN_MENU" = "기본 메뉴";
+"FIRST_INSTRUCTIONS" = "하나씩 다른 탭을 두 번 눌러 병 두 개를 병합합니다.";
+"SECOND_INSTRUCTIONS" = "첫 번째 타일은 하나씩 증가합니다.";
+"THIRD_INSTRUCTIONS" = "두 번째 타일은 첫 타일의 값만큼 증가합니다.";
+"FOURTH_INSTRUCTIONS" = "목표는 모든 타일을 현재 레벨과 동일하게 만드는 것입니다.";
+
+/* ABOUT SCREEN */
+"ABOUT_TITLE" = "약";
+"ABOUT_MESSAGE" = "내 게임을 즐기시기 바랍니다.!\n\n-marioqwe";
+
+/* HOW TO PLAY SCREEN */
+"HOW_TO_PLAY_TITLE" = "게임 방법";
+
+/* SETTINGS SCREEN */
+"SETTINGS_TITLE" = "설정";
+"SOUND" = "소리";
+"VIBRATION" = "진동";
+
+/* GAME VIEW SCREEN */
+"GESTURES_TIP_TITLE" = "공지 사항";
+"GESTURES_TIP" = "왼쪽 또는 오른쪽으로 스 와이프하여 이동을 취소합니다. 다른 옵션을 보려면 두 번 탭하세요.";
+"GOT_IT" = "알았다!";
+"DISMISS" = "다시 표시하지 않음";
+
+/* OPTIONS MENU */
+"RESET" = "다시 놓기";
+"RESUME" = "이력서";
+"LEVELS_MENU" = "레벨 메뉴";
+
+/* GAME MODEL */
+"SELF_MERGE_MESSAGE" = "타일 ​​자체를 병합 할 수 없습니다!";
+"OVER_LEVEL_MESSAGE" = "타일은 현재 레벨보다 클 수 없습니다!";
+
+/* INFO BAR */
+"LEVEL" = "수평";
+"MOVES" = "이사";

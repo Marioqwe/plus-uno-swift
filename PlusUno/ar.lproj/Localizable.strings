@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  PlusUno
+
+  Created by Mario Solano on 3/13/18.
+  Copyright © 2018 Mario Solano. All rights reserved.
+*/
+
+/* ONBOARDING INSTRUCTIONS */
+"MAIN_MENU" = "القائمة الرئيسية";
+"FIRST_INSTRUCTIONS" = "دمج اثنين من البلاط من خلال استغلال واحدة تلو الأخرى.";
+"SECOND_INSTRUCTIONS" = "زيادة البلاط الأولى من جانب واحد.";
+"THIRD_INSTRUCTIONS" = "يزيد البلاط الثاني حسب قيمة البلاط الأول.";
+"FOURTH_INSTRUCTIONS" = "هدفك هو جعل جميع البلاطات مساوية للمستوى الحالي.";
+
+/* ABOUT SCREEN */
+"ABOUT_TITLE" = "حول";
+"ABOUT_MESSAGE" = "آمل أن تستمتع لعبتي!\n\n-marioqwe";
+
+/* HOW TO PLAY SCREEN */
+"HOW_TO_PLAY_TITLE" = "كيف ألعب";
+
+/* SETTINGS SCREEN */
+"SETTINGS_TITLE" = "إعدادات";
+"SOUND" = "صوت";
+"VIBRATION" = "اهتزاز";
+
+/* GAME VIEW SCREEN */
+"GESTURES_TIP_TITLE" = "تحذير";
+"GESTURES_TIP" = "اسحب إلى اليسار أو اليمين للتراجع عن أي حركة ؛ انقر نقرًا مزدوجًا للاطلاع على الخيارات الأخرى.";
+"GOT_IT" = "فهمت!";
+"DISMISS" = "لا تظهر مرة أخرى";
+
+/* OPTIONS MENU */
+"RESET" = "إعادة تعيين";
+"RESUME" = "استئنف";
+"LEVELS_MENU" = "قائمة المستويات";
+
+/* GAME MODEL */
+"SELF_MERGE_MESSAGE" = "لا يمكن دمج بلاط بنفسه!";
+"OVER_LEVEL_MESSAGE" = "البلاط لا يمكن أن يكون أكبر من المستوى الحالي!";
+
+/* INFO BAR */
+"LEVEL" = "مستوى";
+"MOVES" = "التحركات";

@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  PlusUno
+
+  Created by Mario Solano on 3/13/18.
+  Copyright © 2018 Mario Solano. All rights reserved.
+*/
+
+/* ONBOARDING INSTRUCTIONS */
+"MAIN_MENU" = "Menú Principal";
+"FIRST_INSTRUCTIONS" = "Dame tap.";
+"SECOND_INSTRUCTIONS" = "Dame tap.";
+"THIRD_INSTRUCTIONS" = "Me diste tap primero asi que aumenté en UNO.";
+"FOURTH_INSTRUCTIONS" = "Me diste tap segundo asi que aumenté por el valor de el cuadrado al que le diste tap primero.";
+"FIFTH_INSTRUCTIONS" = "Dame tap una vez mas.";
+"SIXTH_INSTRUCTIONS" = "Ahora dame tap a mi. Aumentaré en '4' y me volveré '13'.";
+"SEVENTH_INSTRUCTIONS" = "Yo aumentaré en '1' y me volveré '5'.";
+"TOP_INSTRUCTIONS" = "Trata un par de veces mas";
+"TOP_INSTRUCTIONS_TUTORIAL" = "Regresa al menú pricipal para empezar el tutorial de nuevo.";
+
+/* ABOUT SCREEN */
+"ABOUT_TITLE" = "ACERCA DE";
+"ABOUT_MESSAGE" = "Espero que te guste mi juego!\n\n-marioqwe";
+"FEEDBACK" = "Comentarios";
+
+/* HOW TO PLAY SCREEN */
+"HOW_TO_PLAY_TITLE" = "COMO JUGAR";
+
+/* SETTINGS SCREEN */
+"SETTINGS_TITLE" = "AJUSTES";
+"SOUND" = "Sonido";
+"VIBRATION" = "Vibración";
+
+/* GAME VIEW SCREEN */
+"GESTURES_TIP_TITLE" = "Aviso";
+"GESTURES_TIP" = "Desliza el dedo a la izquierda o derecha para deshacer un movimiento; toca la pantalla dos veces en la parte blanca para ver otras opciones.";
+"GOT_IT" = "Comprendido!";
+"DISMISS" = "No mostrar de nuevo";
+"LEVELS_TIP" = "Haz que todos los cuadrados tengan el valor del el nivel actual.";
+
+/* OPTIONS MENU */
+"RESET" = "Reiniciar";
+"RESUME" = "Resumir";
+"LEVELS_MENU" = "Menu Principal";
+
+/* GAME MODEL */
+"SELF_MERGE_MESSAGE" = "No puedes combinar un cuadrado consigo mismo!";
+"OVER_LEVEL_MESSAGE" = "Los cuadrados no pueden tener un valor mas alto que el nivel actual!";
+
+/* INFO BAR */
+"LEVEL" = "Nivel";
+"MOVES" = "Movidas";

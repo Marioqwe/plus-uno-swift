@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  PlusUno
+
+  Created by Mario Solano on 3/13/18.
+  Copyright © 2018 Mario Solano. All rights reserved.
+*/
+
+/* ONBOARDING INSTRUCTIONS */
+"MAIN_MENU" = "Main Menu";
+"FIRST_INSTRUCTIONS" = "Tap me.";
+"SECOND_INSTRUCTIONS" = "Tap me.";
+"THIRD_INSTRUCTIONS" = "You tapped me first so I increased by ONE.";
+"FOURTH_INSTRUCTIONS" = "You tapped me second so I increased by the value of the tile you tapped FIRST.";
+"FIFTH_INSTRUCTIONS" = "Tap me one more time.";
+"SIXTH_INSTRUCTIONS" = "Now tap me. I will increase by '4' and become '13'.";
+"SEVENTH_INSTRUCTIONS" = "I will increase by '1' and become '5'.";
+"TOP_INSTRUCTIONS" = "Do it a couple more times";
+"TOP_INSTRUCTIONS_TUTORIAL" = "Go back to the main menu to start the tutorial from the beggining.";
+
+/* ABOUT SCREEN */
+"ABOUT_TITLE" = "ABOUT";
+"ABOUT_MESSAGE" = "I hope you enjoy my game!\n\n-marioqwe";
+"FEEDBACK" = "Feedback";
+
+/* HOW TO PLAY SCREEN */
+"HOW_TO_PLAY_TITLE" = "HOW TO PLAY";
+
+/* SETTINGS SCREEN */
+"SETTINGS_TITLE" = "SETTINGS";
+"SOUND" = "Sound";
+"VIBRATION" = "Vibration";
+
+/* GAME VIEW SCREEN */
+"GESTURES_TIP_TITLE" = "Tip";
+"GESTURES_TIP" = "Swipe left or right to undo a move; double tap in the white region to see other options.";
+"GOT_IT" = "Got it!";
+"DISMISS" = "Don't Show Again";
+"LEVELS_TIP" = "Make all tiles equal to ";
+
+/* OPTIONS MENU */
+"RESET" = "Reset";
+"RESUME" = "Resume";
+"LEVELS_MENU" = "Levels Menu";
+
+/* GAME MODEL */
+"SELF_MERGE_MESSAGE" = "Cannot merge a tile with itself!";
+"OVER_LEVEL_MESSAGE" = "Tiles cannot be greater than the current level!";
+
+/* INFO BAR */
+"LEVEL" = "Level";
+"MOVES" = "Moves";

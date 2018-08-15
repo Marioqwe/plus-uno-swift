@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  PlusUno
+
+  Created by Mario Solano on 3/13/18.
+  Copyright © 2018 Mario Solano. All rights reserved.
+*/
+
+/* ONBOARDING INSTRUCTIONS */
+"MAIN_MENU" = "Главное меню";
+"FIRST_INSTRUCTIONS" = "Слейте две плитки, нажимая один за другим.";
+"SECOND_INSTRUCTIONS" = "Первая плитка увеличивается на единицу.";
+"THIRD_INSTRUCTIONS" = "Вторая плитка увеличивается по значению первой плитки.";
+"FOURTH_INSTRUCTIONS" = "Ваша цель - сделать все плитки равными текущему уровню.";
+
+/* ABOUT SCREEN */
+"ABOUT_TITLE" = "ОКОЛО";
+"ABOUT_MESSAGE" = "Надеюсь, вам понравится моя игра!\n\n-marioqwe";
+
+/* HOW TO PLAY SCREEN */
+"HOW_TO_PLAY_TITLE" = "КАК ИГРАТЬ";
+
+/* SETTINGS SCREEN */
+"SETTINGS_TITLE" = "НАСТРОЙКИ";
+"SOUND" = "звук";
+"VIBRATION" = "вибрация";
+
+/* GAME VIEW SCREEN */
+"GESTURES_TIP_TITLE" = "уведомление";
+"GESTURES_TIP" = "Проведите пальцем влево или вправо, чтобы отменить ход; дважды нажмите, чтобы увидеть другие варианты.";
+"GOT_IT" = "Понял!";
+"DISMISS" = "Не показывать снова";
+
+/* OPTIONS MENU */
+"RESET" = "Сброс";
+"RESUME" = "Продолжить";
+"LEVELS_MENU" = "Меню уровней";
+
+/* GAME MODEL */
+"SELF_MERGE_MESSAGE" = "Нельзя сливать плитки с собой!";
+"OVER_LEVEL_MESSAGE" = "Плитки не могут быть выше текущего уровня!";
+
+/* INFO BAR */
+"LEVEL" = "уровень";
+"MOVES" = "Ходы";

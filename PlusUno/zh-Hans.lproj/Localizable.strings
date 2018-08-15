@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  PlusUno
+
+  Created by Mario Solano on 3/13/18.
+  Copyright © 2018 Mario Solano. All rights reserved.
+*/
+
+/* ONBOARDING INSTRUCTIONS */
+"MAIN_MENU" = "主菜单";
+"FIRST_INSTRUCTIONS" = "通过点击一个接一个来合并两个瓷砖。";
+"SECOND_INSTRUCTIONS" = "第一个瓷砖增加一个。";
+"THIRD_INSTRUCTIONS" = "第二个图块增加第一个图块的值。";
+"FOURTH_INSTRUCTIONS" = "你的目标是使所有的瓷砖等于当前的水平。";
+
+/* ABOUT SCREEN */
+"ABOUT_TITLE" = "关于";
+"ABOUT_MESSAGE" = "我希望你喜欢我的比赛！\n\n-marioqwe";
+
+/* HOW TO PLAY SCREEN */
+"HOW_TO_PLAY_TITLE" = "怎么玩";
+
+/* SETTINGS SCREEN */
+"SETTINGS_TITLE" = "设置";
+"SOUND" = "声音";
+"VIBRATION" = "振动";
+
+/* GAME VIEW SCREEN */
+"GESTURES_TIP_TITLE" = "通知";
+"GESTURES_TIP" = "向左或向右滑动以撤消移动;双击可查看其他选项。";
+"GOT_IT" = "我明白了！";
+"DISMISS" = "不要再显示";
+
+/* OPTIONS MENU */
+"RESET" = "重启";
+"RESUME" = "恢复";
+"LEVELS_MENU" = "级别菜单";
+
+/* GAME MODEL */
+"SELF_MERGE_MESSAGE" = "无法将自己的拼贴合并！";
+"OVER_LEVEL_MESSAGE" = "瓷砖不能超过目前的水平！";
+
+/* INFO BAR */
+"LEVEL" = "水平";
+"MOVES" = "移动";

@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  PlusUno
+
+  Created by Mario Solano on 3/13/18.
+  Copyright © 2018 Mario Solano. All rights reserved.
+*/
+
+/* ONBOARDING INSTRUCTIONS */
+"MAIN_MENU" = "メインメニュー";
+"FIRST_INSTRUCTIONS" = "2つのタイルを1つずつタップしてマージします。";
+"SECOND_INSTRUCTIONS" = "最初のタイルが1つ増加します。";
+"THIRD_INSTRUCTIONS" = "2番目のタイルは、1番目のタイルの値だけ増加します。";
+"FOURTH_INSTRUCTIONS" = "あなたの目標は、すべてのタイルを現在のレベルと同じにすることです。";
+
+/* ABOUT SCREEN */
+"ABOUT_TITLE" = "約";
+"ABOUT_MESSAGE" = "私はあなたが私のゲームを楽しむことを望む!\n\n-marioqwe";
+
+/* HOW TO PLAY SCREEN */
+"HOW_TO_PLAY_TITLE" = "遊び方";
+
+/* SETTINGS SCREEN */
+"SETTINGS_TITLE" = "設定";
+"SOUND" = "音";
+"VIBRATION" = "振動";
+
+/* GAME VIEW SCREEN */
+"GESTURES_TIP_TITLE" = "通知";
+"GESTURES_TIP" = "左または右にスワイプして移動を元に戻します。他のオプションを見るにはダブルタップしてください。";
+"GOT_IT" = "とった！";
+"DISMISS" = "もう一度表示しない";
+
+/* OPTIONS MENU */
+"RESET" = "リセット";
+"RESUME" = "履歴書";
+"LEVELS_MENU" = "プリンシパルメニュー";
+
+/* GAME MODEL */
+"SELF_MERGE_MESSAGE" = "タイル自体をマージすることはできません！";
+"OVER_LEVEL_MESSAGE" = "タイルは現在のレベルより大きくすることはできません！";
+
+/* INFO BAR */
+"LEVEL" = "レベル";
+"MOVES" = "動く";
