@@ -59,9 +59,9 @@
 		5ADE928B1FA6670F00DDFF43 /* PlusUnoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADE928A1FA6670F00DDFF43 /* PlusUnoViewController.swift */; };
 		5AE22A5F2123BE770076E5CC /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = 5AE22A5E2123BE770076E5CC /* LICENSE.md */; };
 		5AE22A612123BEA40076E5CC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5AE22A602123BEA40076E5CC /* README.md */; };
-		5AE22A662123C1E00076E5CC /* image_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5AE22A632123C1E00076E5CC /* image_1.jpg */; };
-		5AE22A672123C1E00076E5CC /* image_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5AE22A642123C1E00076E5CC /* image_2.jpg */; };
-		5AE22A682123C1E00076E5CC /* image_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5AE22A652123C1E00076E5CC /* image_3.jpg */; };
+		5AE22A6C2123C52C0076E5CC /* image_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5AE22A692123C52C0076E5CC /* image_2.jpg */; };
+		5AE22A6D2123C52C0076E5CC /* image_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5AE22A6A2123C52C0076E5CC /* image_1.jpg */; };
+		5AE22A6E2123C52C0076E5CC /* image_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5AE22A6B2123C52C0076E5CC /* image_3.jpg */; };
 		5AE488EC1F9D0F7E007333F8 /* GameboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE488EB1F9D0F7E007333F8 /* GameboardView.swift */; };
 		5AE488EE1F9D0F8C007333F8 /* TileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE488ED1F9D0F8C007333F8 /* TileView.swift */; };
 		5AE488F01F9D3450007333F8 /* AppearanceProviderProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE488EF1F9D3450007333F8 /* AppearanceProviderProtocol.swift */; };
@@ -169,9 +169,9 @@
 		5ADE928A1FA6670F00DDFF43 /* PlusUnoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusUnoViewController.swift; sourceTree = "<group>"; };
 		5AE22A5E2123BE770076E5CC /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		5AE22A602123BEA40076E5CC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		5AE22A632123C1E00076E5CC /* image_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image_1.jpg; path = ../../../../Downloads/image_1.jpg; sourceTree = "<group>"; };
-		5AE22A642123C1E00076E5CC /* image_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image_2.jpg; path = ../../../../Downloads/image_2.jpg; sourceTree = "<group>"; };
-		5AE22A652123C1E00076E5CC /* image_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image_3.jpg; path = ../../../../Downloads/image_3.jpg; sourceTree = "<group>"; };
+		5AE22A692123C52C0076E5CC /* image_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_2.jpg; sourceTree = "<group>"; };
+		5AE22A6A2123C52C0076E5CC /* image_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_1.jpg; sourceTree = "<group>"; };
+		5AE22A6B2123C52C0076E5CC /* image_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_3.jpg; sourceTree = "<group>"; };
 		5AE488EB1F9D0F7E007333F8 /* GameboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameboardView.swift; sourceTree = "<group>"; };
 		5AE488ED1F9D0F8C007333F8 /* TileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TileView.swift; sourceTree = "<group>"; };
 		5AE488EF1F9D3450007333F8 /* AppearanceProviderProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppearanceProviderProtocol.swift; sourceTree = "<group>"; };
@@ -459,9 +459,9 @@
 		5AE22A622123C1BE0076E5CC /* screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				5AE22A632123C1E00076E5CC /* image_1.jpg */,
-				5AE22A642123C1E00076E5CC /* image_2.jpg */,
-				5AE22A652123C1E00076E5CC /* image_3.jpg */,
+				5AE22A6A2123C52C0076E5CC /* image_1.jpg */,
+				5AE22A692123C52C0076E5CC /* image_2.jpg */,
+				5AE22A6B2123C52C0076E5CC /* image_3.jpg */,
 			);
 			path = screenshots;
 			sourceTree = "<group>";
@@ -621,27 +621,27 @@
 				5A3D8E7D1FCBA196003F632B /* Puzzle-Game-3.wav in Resources */,
 				5AE489011F9D52D4007333F8 /* JosefinSans-Italic.ttf in Resources */,
 				5A3D8E7B1FCB75C2003F632B /* LICENSE in Resources */,
+				5AE22A6C2123C52C0076E5CC /* image_2.jpg in Resources */,
 				5A7904E81FB29C2A00AEE5E0 /* click_type.wav in Resources */,
 				5AE489061F9D52D4007333F8 /* JosefinSans-SemiBoldItalic.ttf in Resources */,
 				5A7904E51FB29C2A00AEE5E0 /* digi_plink.wav in Resources */,
 				5AE489051F9D52D4007333F8 /* JosefinSans-SemiBold.ttf in Resources */,
 				5AABD9042058AFB100ED0A55 /* Localizable.strings in Resources */,
 				5AE489001F9D52D4007333F8 /* JosefinSans-BoldItalic.ttf in Resources */,
+				5AE22A6D2123C52C0076E5CC /* image_1.jpg in Resources */,
 				5AE22A5F2123BE770076E5CC /* LICENSE.md in Resources */,
-				5AE22A662123C1E00076E5CC /* image_1.jpg in Resources */,
 				5AACB6A31F9944270088094F /* Assets.xcassets in Resources */,
 				5AE489091F9D52D4007333F8 /* SIL Open Font License.txt in Resources */,
 				5AE22A612123BEA40076E5CC /* README.md in Resources */,
 				5A7904E91FB29C2A00AEE5E0 /* digi_pulse_hi.wav in Resources */,
+				5AE22A6E2123C52C0076E5CC /* image_3.jpg in Resources */,
 				5A7904E61FB29C2A00AEE5E0 /* digi_plink_on.wav in Resources */,
 				5AE489081F9D52D4007333F8 /* JosefinSans-ThinItalic.ttf in Resources */,
 				5A3D8E711FCA7EAC003F632B /* PMAlertController.xib in Resources */,
 				5A3D8E791FCB75A8003F632B /* LICENSE in Resources */,
 				5AE489031F9D52D4007333F8 /* JosefinSans-LightItalic.ttf in Resources */,
-				5AE22A682123C1E00076E5CC /* image_3.jpg in Resources */,
 				5AE489041F9D52D4007333F8 /* JosefinSans-Regular.ttf in Resources */,
 				5AE489021F9D52D4007333F8 /* JosefinSans-Light.ttf in Resources */,
-				5AE22A672123C1E00076E5CC /* image_2.jpg in Resources */,
 				5AE489071F9D52D4007333F8 /* JosefinSans-Thin.ttf in Resources */,
 				5A7904E71FB29C2A00AEE5E0 /* digi_powerdown.wav in Resources */,
 				5A3D8E811FCBC3C8003F632B /* digi_chime_echo.wav in Resources */,
